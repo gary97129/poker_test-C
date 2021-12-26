@@ -1,0 +1,15 @@
+C:\Users\syuan\Desktop\poker\poker\bin\Debug\poker.exe.config
+C:\Users\syuan\Desktop\poker\poker\bin\Debug\poker.exe
+C:\Users\syuan\Desktop\poker\poker\bin\Debug\poker.pdb
+C:\Users\syuan\Desktop\poker\poker\obj\Debug\poker.csprojAssemblyReference.cache
+C:\Users\syuan\Desktop\poker\poker\obj\Debug\poker.Form1.resources
+C:\Users\syuan\Desktop\poker\poker\obj\Debug\poker.Properties.Resources.resources
+C:\Users\syuan\Desktop\poker\poker\obj\Debug\poker.csproj.GenerateResource.cache
+C:\Users\syuan\Desktop\poker\poker\obj\Debug\poker.csproj.CoreCompileInputs.cache
+C:\Users\syuan\Desktop\poker\poker\obj\Debug\poker.exe
+C:\Users\syuan\Desktop\poker\poker\obj\Debug\poker.pdb
+C:\Users\syuan\Desktop\程式\c#\poker\poker\obj\Debug\poker.csprojAssemblyReference.cache
+C:\Users\syuan\Desktop\程式\c#\poker\poker\obj\Debug\poker.Form1.resources
+C:\Users\syuan\Desktop\程式\c#\poker\poker\obj\Debug\poker.csproj.GenerateResource.cache
+C:\Users\syuan\Desktop\程式\c#\poker\poker\obj\Debug\poker.exe
+C:\Users\syuan\Desktop\程式\c#\poker\poker\obj\Debug\poker.pdb
